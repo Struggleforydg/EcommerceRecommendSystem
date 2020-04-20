@@ -1,0 +1,9 @@
+# Project exclude paths
+/businessServer/target/
+/reommender/ContentRecommender/target/
+/reommender/DataLoader/target/
+/reommender/ItemCFRecommender/target/
+/reommender/KafkaStreaming/target/
+/reommender/OfflineRecommender/target/
+/reommender/OnlineRecommender/target/
+/reommender/StatisticRecommender/target/
